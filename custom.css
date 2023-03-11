@@ -1,0 +1,78 @@
+/* Header */
+.ab-navbar {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.ab-navbar-brand img {
+  height: 30px;
+}
+
+.ab-navbar-nav .ab-nav-item {
+  margin-right: 20px;
+}
+
+.ab-nav-link {
+  color: #222;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.ab-btn-primary {
+  background-color: #3F93E0;
+  border-color: #3F93E0;
+}
+
+.ab-btn-primary:hover {
+  background-color: #2E73B9;
+  border-color: #2E73B9;
+}
+
+/* Footer */
+.ab-footer {
+  background-color: #f9f9f9;
+  padding: 30px 0;
+}
+
+.ab-footer h3 {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.ab-footer p {
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.ab-social-media-icons {
+  margin-top: 10px;
+}
+
+.ab-social-media-icons li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.ab-social-media-icons li:last-child {
+  margin-right: 0;
+}
+
+.ab-social-media-icons a {
+  display: inline-block;
+  color: #888;
+  font-size: 20px;
+  line-height: 20px;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  border-radius: 50%;
+  border: 1px solid #888;
+  transition: all 0.3s ease;
+}
+
+.ab-social-media-icons a:hover {
+  color: #3F93E0;
+  border-color: #3F93E0;
+}
+

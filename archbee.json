@@ -1,0 +1,11 @@
+{
+  "root": "Archbee GitHub Integration Demo",
+  "structure": {
+    "summary": "summary.md",
+    "assets": "assets"
+  },
+  "customJS":"custom.js",
+  "customCSS":"custom.css",
+  "footerTemplate": "footer.html",
+  "headerIncludes": "header.html"
+}
